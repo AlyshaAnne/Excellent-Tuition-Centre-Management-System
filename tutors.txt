@@ -1,0 +1,3 @@
+joe,joe,joe,maths,computer,physics,3
+poop,poop,poop,math,physics,computer,1
+alysha,alyshaanne2001@gmail.com,60129781859,Math,Science,English,3
